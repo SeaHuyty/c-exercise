@@ -1,0 +1,21 @@
+                    --->>> 1 <<<---                                                         --->>> 2 <<<---
+-------------  56-passenger luxury coach  -------------                 ------------- 40-passenger standard coach -------------
+Number of seat: 56 luxury coaches                                       Number of seat: 40 standard coaches
+Price: 190$                                                             Price: 160$
+Features:                                                               Features: 
+    - Wifi          - Luggage                                               - Wifi          - Luggage
+    - Outlets       - More legroom                                          - Outlets       - TV, Speaker and Microphone
+    - Restroom      - TV, Speaker and Microphone                            - Restroom      - Water
+    - Drink         - Insurance                                             - Insurance
+
+                    --->>> 3 <<<---                                                         --->>> 4 <<<---
+-------------    16-passenger Mini-bus    -------------                 -------------       12-passenger Van      -------------
+Number of seat: 16                                                      Number of seat: 12
+Price: 95$                                                              Price: 70$
+Features:                                                               Features: 
+    - Wifi          - Luggage                                               - Luggage       - Water
+    - Outlets       - TV, Speaker and Microphone                            - Outlets       - TV, Speaker and Microphone
+    - Water         - Insurance                                             - Insurance
+
+                                                        --->>> 0 <<<---
+                                                              Exit

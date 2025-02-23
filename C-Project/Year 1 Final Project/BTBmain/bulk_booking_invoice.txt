@@ -1,0 +1,273 @@
+-------------->> Invoice <<---------------
+Name: Sea huyty
+
+Departure date:                 12/12/2025
+
+Vehicle Type: 56-passenger luxury coach
+Journey Type: Round trip
+
+Boarding: Phnom Penh
+Drop off: Sihanouk Ville
+
+Car rental price:                     145$
+Amount of car:                        1
+Service:                              5$
+------------------------------------------
+Total price:                      150.00$
+
+Reservation date:               12-07-2024
+Reservation Expiration date:    14-07-2024
+==========================================
+
+-------------->> Invoice <<---------------
+Name: Z'linh
+
+Departure date:                 13/07/2025
+
+Vehicle Type: 56-passenger luxury coach
+Journey Type: Round trip
+
+Boarding: Phnom Penh
+Drop off: Kompot
+
+Car rental price:                     125$
+Amount of car:                        1
+Service:                              5$
+------------------------------------------
+Total price:                      130.00$
+
+Reservation date:               12-07-2024
+Reservation Expiration date:    14-07-2024
+==========================================
+
+
+-------------->> Invoice <<---------------
+Name: Sea_Huyty
+
+Departure date:                 12/12/2025
+
+Vehicle Type: 56-passenger luxury coach
+Journey Type: Round-Trip
+
+Boarding: Phnom Penh
+Drop off: Sihanouk Ville
+
+Car rental price:                     145$
+Amount of car:                        1
+Service:                              5$
+------------------------------------------
+Total price:                      150.00$
+
+Reservation date:               13-07-2024
+Reservation Expiration date:    15-07-2024
+==========================================
+
+-------------->> Invoice <<---------------
+Name: Sea Huyty
+
+Departure date:                 12/13/2024
+
+Vehicle Type: 56-passenger luxury coach
+Journey Type: Round-Trip
+
+Boarding: Phnom Penh
+Drop off: Sihanouk Ville
+
+Car rental price:                     145$
+Amount of car:                        1994308768
+Service:                              5$
+------------------------------------------
+Total price:                      1411962496.00$
+
+Reservation date:               13-07-2024
+Reservation Expiration date:    15-07-2024
+==========================================
+
+-------------->> Invoice <<---------------
+Name: Sea_Huyty
+
+Departure date:                 13/12/2024
+
+Vehicle Type: 56-passenger luxury coach
+Journey Type: Round-Trip
+
+Boarding: Phnom Penh
+Drop off: Sihanouk Ville
+
+Car rental price:                     145$
+Amount of car:                        1994308768
+Service:                              5$
+------------------------------------------
+Total price:                      1411962496.00$
+
+Reservation date:               13-07-2024
+Reservation Expiration date:    15-07-2024
+==========================================
+
+-------------->> Invoice <<---------------
+Name: Sea_Huyty
+
+Departure date:                 12/12/2024
+
+Vehicle Type: 56-passenger luxury coach
+Journey Type: Round-Trip
+
+Boarding: Phnom Penh
+Drop off: Sihanouk Ville
+
+Car rental price:                     145$
+Amount of car:                        1
+Service:                              5$
+------------------------------------------
+Total price:                      150.00$
+
+Reservation date:               13-07-2024
+Reservation Expiration date:    15-07-2024
+==========================================
+
+-------------->> Invoice <<---------------
+Name: Sea Huyty
+
+Departure date:                 01/12/2024
+
+Vehicle Type: 56-passenger luxury coach
+Journey Type: Round-Trip
+
+Boarding: Phnom Penh
+Drop off: Sihanouk Ville
+
+Car rental price:                     145$
+Amount of car:                        1
+Service:                              5$
+------------------------------------------
+Total price:                      150.00$
+
+Reservation date:               13-07-2024
+Reservation Expiration date:    15-07-2024
+==========================================
+
+-------------->> Invoice <<---------------
+Name: Sea Huyty
+
+Departure date:                 12/13/2024
+
+Vehicle Type: 56-passenger luxury coach
+Journey Type: Round-Trip
+
+Boarding: Phnom Penh
+Drop off: Sihanouk Ville
+
+Car rental price:                     145$
+Amount of car:                        2
+Service:                              5$
+------------------------------------------
+Total price:                      295.00$
+
+Reservation date:               13-07-2024
+Reservation Expiration date:    15-07-2024
+==========================================
+
+-------------->> Invoice <<---------------
+Name: Sea_Huyty
+
+Departure date:                 12/12/2024
+
+Vehicle Type: 56-passenger luxury coach
+Journey Type: One-way
+
+Boarding: Phnom Penh
+Drop off: Sihanouk Ville
+
+Car rental price:                     160$
+Amount of car:                        1
+Service:                              5$
+------------------------------------------
+Total price:                      165.00$
+
+Reservation date:               15-07-2024
+Reservation Expiration date:    17-07-2024
+==========================================
+
+-------------->> Invoice <<---------------
+Name: Sea_Huyty
+
+Departure date:                 21/12/2024
+
+Vehicle Type: 40-passenger standard coach
+Journey Type: One-way
+
+Boarding: Phnom Penh
+Drop off: Sihanouk Ville
+
+Car rental price:                     120$
+Amount of car:                        1
+Service:                              5$
+------------------------------------------
+Total price:                      125.00$
+
+Reservation date:               15-07-2024
+Reservation Expiration date:    17-07-2024
+==========================================
+
+-------------->> Invoice <<---------------
+Name: Sea_Huyty
+
+Departure date:                 12/12/2024
+
+Vehicle Type: 40-passenger standard coach
+Journey Type: Round-Trip
+
+Boarding: Phnom Penh
+Drop off: Sihanouk Ville
+
+Car rental price:                     105$
+Amount of car:                        1
+Service:                              5$
+------------------------------------------
+Total price:                      110.00$
+
+Reservation date:               15-07-2024
+Reservation Expiration date:    17-07-2024
+==========================================
+
+-------------->> Invoice <<---------------
+Name: 1
+
+Departure date:                 12/12/2024
+
+Vehicle Type: 56-passenger luxury coach
+Journey Type: Round-Trip
+
+Boarding: Phnom Penh
+Drop off: Sihanouk Ville
+
+Car rental price:                     145$
+Amount of car:                        1
+Service:                              5$
+------------------------------------------
+Total price:                      150.00$
+
+Reservation date:               22-07-2024
+Reservation Expiration date:    24-07-2024
+==========================================
+
+-------------->> Invoice <<---------------
+Name: jkhjk
+
+Departure date:                 12/12/2024
+
+Vehicle Type: 56-passenger luxury coach
+Journey Type: Round-Trip
+
+Boarding: Phnom Penh
+Drop off: Sihanouk Ville
+
+Car rental price:                     145$
+Amount of car:                        2
+Service:                              5$
+------------------------------------------
+Total price:                      295.00$
+
+Reservation date:               22-07-2024
+Reservation Expiration date:    24-07-2024
+==========================================
