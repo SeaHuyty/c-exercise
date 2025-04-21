@@ -27,7 +27,7 @@ Topics include:
 
 2. **Navigate to the project directory**:
    ```bash
-   cd your-repo-name
+   cd C-C--LessonsAndExercises
    ```
 
 > ⚠️ Make sure you have `gcc` or `g++` installed. Use a C/C++ IDE or editor like VSCode or Code::Blocks for a better experience.
