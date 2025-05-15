@@ -14,53 +14,6 @@ int main() {
         printf("\"I have no enemies\"");
 
 
-    // These are variables which is being used to store value.
-        char c='a';
-        short s= 20;
-        int i=200;
-        long l= 2000;
-        float f=3.45;
-        double d= 3.45259;
-        printf("char: %c\n", c); // %c for char.
-        printf("short: %hd\n", s); // %hd might be for short integer.
-        printf("int: %d\n", i); // %d for integer, also %i.
-        printf("long: %ld\n", l); // %ld for long integer maybe :Vv.
-        printf("float: %f\n", f); // %f for float.
-        printf("double: %lf\n", d); // %lf for long float number.
-
-
-    // Arithmetic operators:
-        int a = 20, b = 30;
-        printf("We have a = 20 and b = 30\n");
-        printf("The result of a + b is: %d\n", a+b); // Sum Operator
-        printf("The result of a - b is: %d\n", a-b); // Minus Operator
-        printf("The result of a * b is: %d\n", a*b); // Multiply Operator
-        printf("The value of a / b is: %d\n", a / b); // Divide Operator
-        printf("The value of a %% b is: %d\n", a % b); // It shows Somnorl after the dividing
-
-
-    // Logical Operators:
-        printf("The value of this logical AND operator ((a == b) && (a < b)) is: %d\n", (a == b) && (a < b)); // AND Operator(&&)
-        printf("The value of this logical OR operator ((a == b) || (a < b)) is: %d\n", (a == b) || (a < b)); // OR Operator(||)
-        printf("The value of this logical NOT operator (!(a == b)) is: %d\n", !(a == b)); // NOT Operator(!)
-
-
-    // Comparison Operators:
-        printf("The value of a == b is: %d\n", a == b); // Equal Operator(==)
-        printf("The value of a != b is: %d\n", a != b); // Not Equal Operator(!=)
-        printf("The value of a >= b is: %d\n", a >= b); // Bigger-or-equal Operator(>=)
-        printf("The value of a <= b is: %d\n", a <= b); // Smaller-or-equal Operator(<=)
-        printf("The value of a > b is: %d\n", a > b); // Bigger Operator(>)
-        printf("The value of a < b is: %d\n", a < b); // Smaller Operator(<)
-
-
-    // Increment/Decrement Operators:
-        printf("The value of a++ is %d\n", a++); // Pre-increment
-        printf("The value of a-- is %d\n", a--); // Pre-decrement
-        printf("The value of ++a is %d\n", ++a); // Post-increment
-        printf("The value of --a is %d\n", --a); // Post-decrement
-
-
     // The different output of this program. let say it is a code or an operator, I don't know but let just call it a code or an operator.
         printf("/%f/\n", 1234.56); 
         //This operator give the full float number.
@@ -96,7 +49,7 @@ int main() {
         // And we can create this kind of stuff!!
         for (int i = 1; i <= 100; i++) {
         printf("%d. ", i);
-        printf("B sl o!!\n");
+        printf("Hello World\n");
         }
 
 
@@ -127,14 +80,14 @@ int main() {
         do {
             printf("%d\n", count); // Body of the loop.
             count = count + 1;
-        }   while (count < 5); // If the condition evaluate to true, the body of the loop will be executed. And if the condition is false, then the loop will be terminated.
+        } while (count < 5); // If the condition evaluate to true, the body of the loop will be executed. And if the condition is false, then the loop will be terminated.
         // The code got execute in the (do) block and condition checked in (while). and that's what make the code in the (do-while) loop get executed once even when the condition is false.
         // Let's see:
         int countt = 5;
         do {
             printf("%d\n", countt);
             countt = countt + 1;
-        }   while (countt < 5); // It display 5 first and then check and see the condition is false, so the loop terminates. It's different from the (while) loop because while loop check first and display later.
+        } while (countt < 5); // It display 5 first and then check and see the condition is false, so the loop terminates. It's different from the (while) loop because while loop check first and display later.
 
 
     // Selection Statement:
@@ -210,41 +163,6 @@ int main() {
     // We don't actually use (goto statement) in our code. But in some areas (goto statement) is okay.
     // (goto) statement can be used to optimize the execution of code.
     // We might use (goto) statement much better with many nested loop because it's better to jump over the loop. then to break each loops.
-
-
-    // String:
-    char string1[] = "Bro";
-    char string2[] = "Code";
-    
-    strlwr(string1);                   // converts a string to lowercase
-    strupr(string1);                   // converts a string to uppercase
-    strcat(string1, string2);          // appends string2 to end of string1
-    strncat(string1, string2, 1);      // appends n characters from string2 to string1
-    strcpy(string1, string2);          // copy string2 to string1
-    strncpy(string1, string2, 2);      // copy n characters of string2 to string1
-    
-    strset(string1, '?');              //sets all characters of a string to a given character
-    strnset(string1, 'x', 1);          //sets first n characters of a string to a given character
-    strrev(string1);                   //reverses a string
-
-    //int result = strlen(string1);                 // returns string length as int
-    //int result = strcmp(string1, string2);        // string compare all characters
-    //int result = strncmp(string1, string2, 1);    // string compare n characters
-    //int result = strcmpi(string1, string1);       // string compare all (ignore case)
-    //int result = strnicmp(string1, string1, 1);   // string compare n characters (ignore case)
-
-
-    // To check how many elements in our array.
-    int length = sizeof(student_score) / sizeof(student_score[0]);
-    printf("\n\nNumber of element in our array: %d", length);
-
-
-    // Extern: uses to change global variables value. Global Variables are outside the main function.
-    extern a;
-    a = 15;
-
-
-
 
     return 0;
 }
