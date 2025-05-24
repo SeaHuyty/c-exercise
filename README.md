@@ -4,7 +4,7 @@ A collection of C programming exercises designed to strengthen your understandin
 
 ## Get Started
 
-For a comprehensive guide to each exercise and its objectives, please refer to the (EXERCISE.md)[EXERCISE.md] file.
+For a comprehensive guide to each exercise and its objectives, please refer to the [EXERCISE.md](EXERCISE.md) file.
 
 ## 🎓 Purpose
 
