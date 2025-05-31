@@ -9,11 +9,9 @@ int main() {
 
     if (age < 0) {
         printf("Please enter a valid age.");
-    }
-    else if (age >= 18) {
+    } else if (age >= 18) {
         printf("You're eligible to vote in the election!!");
-    }
-    else {
+    } else {
         printf("You're not eligible to vote in the election!!");
     }
 

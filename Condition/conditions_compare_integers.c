@@ -13,11 +13,9 @@ int main() {
 
     if (x > y) {
         printf("The value of x is bigger than the value of y.");
-    }
-    else if (x < y) {
+    } else if (x < y) {
         printf("The value of y is bigger than the value of x.");
-    }
-    else {  // covers x == y
+    } else {  // covers x == y
         printf("The value of x is equal to the value of y.");
     }
 

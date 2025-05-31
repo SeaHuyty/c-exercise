@@ -9,11 +9,9 @@ int main() {
 
     if (year <= 0) {
         printf("Please enter a valid year!!");
-    }
-    else if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
+    } else if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
         printf("It's a leap year!!");
-    }
-    else {
+    } else {
         printf("It's not a leap year");
     }
 

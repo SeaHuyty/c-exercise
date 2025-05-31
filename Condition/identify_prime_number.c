@@ -9,11 +9,9 @@ int main() {
 
     if (prime == 2) {
         printf("It's a prime number!!");
-    }
-    else if (prime == 1) {
+    } else if (prime == 1) {
         printf("It's not a prime number!!");
-    }
-    else {
+    } else {
         for (int i = 2; i < prime; i++) {
             if (prime % i == 0) {
                 notprime = 0;

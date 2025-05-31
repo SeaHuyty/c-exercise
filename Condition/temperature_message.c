@@ -10,14 +10,11 @@ int main() {
 
     if (temperature >= 30) {
         printf("It's a hot day. Make sure to stay hydrated.\n");
-    }
-    else if (temperature >= 20) {
+    } else if (temperature >= 20) {
         printf("The weather is warm and pleasant.\n");
-    }
-    else if (temperature >= 10) {
+    } else if (temperature >= 10) {
         printf("It's a bit chilly. You might want to wear a jacket.\n");
-    }
-    else {
+    } else {
         printf("It's cold outside. Dress warmly.\n");
     }
 

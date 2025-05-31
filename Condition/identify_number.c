@@ -8,11 +8,9 @@ int main() {
 
     if (identify == 0) {
         printf("It's zero");
-    }
-    else if (identify > 0) {
+    } else if (identify > 0) {
         printf("It's a positive number!!");
-    }
-    else {
+    } else {
         printf("It's a negative number!!");
     }
 

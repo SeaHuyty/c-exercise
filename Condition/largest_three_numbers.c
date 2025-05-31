@@ -15,11 +15,9 @@ int main() {
 
     if (number1 > number2 && number1 > number3) {
         printf("The first integer you entered is the largest number.\n");
-    }
-    else if (number2 > number1 && number2 > number3) {
+    } else if (number2 > number1 && number2 > number3) {
         printf("The second integer you entered is the largest number.\n");
-    }
-    else {
+    } else {
         printf("The third integer you entered is the largest number.\n");
     }
 

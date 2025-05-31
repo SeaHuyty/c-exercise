@@ -31,11 +31,9 @@ int main() {
     // Compare the two dates to determine who is younger
     if (year1 < year2 || (year1 == year2 && month1 < month2) || (year1 == year2 && month1 == month2 && day1 < day2)) {
         printf("The first person is the youngest\n");
-    } 
-    else if (year2 < year1 || (year2 == year1 && month2 < month1) || (year2 == year1 && month2 == month1 && day2 < day1)) {
+    } else if (year2 < year1 || (year2 == year1 && month2 < month1) || (year2 == year1 && month2 == month1 && day2 < day1)) {
         printf("The second person is the youngest\n");
-    } 
-    else {
+    } else {
         printf("Both persons have the same age\n");
     }
 

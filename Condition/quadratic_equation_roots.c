@@ -26,15 +26,20 @@ int main() {
         // Two distinct roots
         printf("Delta > 0\n");
         printf("There are two roots:\n");
+
         float square_root_of_delta = sqrt(delta);
+
         x1 = (-second_real_number + square_root_of_delta) / (2 * first_real_number);
-        printf("x1 = %1.2f\n", x1);
         x2 = (-second_real_number - square_root_of_delta) / (2 * first_real_number);
+
+        printf("x1 = %1.2f\n", x1);
         printf("x2 = %1.2f\n", x2);
     } else if (delta == 0) {
         // One real root (double root)
         printf("Delta = 0\n");
+        
         x1 = x2 = (-second_real_number / (float)(2 * first_real_number));
+
         printf("So x1 = x2 = %f\n", x1);
     } else {
         // No real roots
