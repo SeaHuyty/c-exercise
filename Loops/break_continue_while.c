@@ -1,4 +1,4 @@
-// Using break and continue in a While Loop
+// Even Number Filter: Write a program that repeatedly asks the user to enter a number, prints it only if it's even, skips odd numbers, and stops when the user enters a number less than or equal to zero.
 
 #include <stdio.h>
 

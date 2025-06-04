@@ -1,4 +1,13 @@
-// Star Pattern: Construct a pattern of stars using nested for loops.
+// Star Pattern: Construct the below pattern of stars using nested for loops.
+// *
+// **
+// ***
+// ****
+// *****
+// ****
+// ***
+// **
+// *
 #include <stdio.h>
 
 int main() {

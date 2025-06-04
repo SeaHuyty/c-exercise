@@ -6,14 +6,11 @@ int main() {
     for (int game = 1; game <= 100; game++) {
         if (game % 3 == 0 && game % 5 == 0) {
             printf("FizzBuzz\n");
-        }
-        else if (game % 5 == 0) {
+        } else if (game % 5 == 0) {
             printf("Buzz\n");
-        }
-        else if (game % 3 == 0) {
+        } else if (game % 3 == 0) {
             printf("Fizz\n");
-        }
-        else {
+        } else {
             printf("%d\n", game);
         }
     }
