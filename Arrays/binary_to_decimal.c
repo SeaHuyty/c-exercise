@@ -1,4 +1,4 @@
-// Exercise: Convert an 8-bit binary number to decimal
+// Convert 8-bit Binary Number to Decimal: Convert an 8-bit binary number to decimal
 
 #include <stdio.h>
 
