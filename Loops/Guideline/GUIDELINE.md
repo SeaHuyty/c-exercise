@@ -7,7 +7,7 @@ Learn how to use loops in C to repeat actions efficiently. Practice using while 
 ### 🟢 Beginner (Easy) – Loops and Repetition
 
   * **Star Pattern:** Construct the below pattern of stars using nested for loops.
-  *
+  ```*
   **
   ***
   ****
@@ -15,7 +15,7 @@ Learn how to use loops in C to repeat actions efficiently. Practice using while 
   ****
   ***
   **
-  *
+  *```
     * [See Solution](../star_pattern.c)
 
   * **Sum From 1 to N:** Let user enter a positive integer and calculate the total sum from 1 to that number.

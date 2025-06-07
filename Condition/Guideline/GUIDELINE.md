@@ -7,7 +7,7 @@ Learn how to use if, else if, and else to make decisions based on conditions. Pr
 ### 🟢 Beginner (Easy) – Basic Conditions and Operators
 
   * **Check Age for Eligibility:** Determine if a person is eligible to vote based on age.
-  * [See Solution](../check_age_eligibility.c)
+    * [See Solution](../check_age_eligibility.c)
 
   * **Identify Positive, Negative or Zero:** Prompt user to enter a number and determine if it is positive, negative, or zero.
     * [See Solution](../identify_number.c)

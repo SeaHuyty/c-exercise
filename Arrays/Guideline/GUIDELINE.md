@@ -7,13 +7,13 @@ Learn how to use arrays to store multiple values in a single variable. Practice 
 ### 🟢 Beginner (Easy) – Basic arrays and Simple loops
 
   * **Print Each Character of a String:** Print each character of the string "CADT" one by one.
-  * [See Solution](../print_chars.c)
+    * [See Solution](../print_chars.c)
 
   * **Print a string stored in a character array:** Declare a character array to store a string and print the string.
-  * [See Solution](../string_print.c)
+    * [See Solution](../string_print.c)
 
   * **Print Elements of an Integer Array:** Write a program to declare and initialize an integer array of size 5, then use a loop to print all its elements.
-  * [See Solution](../array_print_elements.c)
+    * [See Solution](../array_print_elements.c)
 
   * **Sum of Elements in an Integer Array:** Create a program that calculates the sum of all elements in an integer array of size 7.
     * [See Solution](../array_sum_elements.c)
