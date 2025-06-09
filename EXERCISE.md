@@ -4,47 +4,51 @@ Welcome to the exercises archive for my C programming course. Below is a guide t
 
 ---
 
-### Variables and Data Types
+### I. Variables and Data Types
 
 Explore exercises related to understanding and using variables and data types in C. These exercises help you practice declaring variables, choosing appropriate data types, and performing operations involving integers, floats, characters, and more.
 
-* **Please refer to the file below to begin the Exercise.**
-  * [See Exercise](./Variables-and-Data-Types/Guideline/GUIDELINE.md)
+* **Please refer to this** [Guideline.md](./Variables-and-Data-Types/Guideline/GUIDELINE.md) **file to begin the Exercise.**
 
-### Condition
+---
+
+### II. Condition
 
 Explore exercises related to writing and evaluating conditional statements in C. These exercises focus on using if, else if, and else to control program flow based on logical conditions and comparisons.
 
-* **Please refer to the file below to begin the Exercise.**
-  * [See Exercise](./Condition/Guideline/GUIDELINE.md)
+* **Please refer to this** [Guideline.md](./Condition/Guideline/GUIDELINE.md) **file to begin the Exercise.**
 
-### Loops
+---
+
+### III. Loops
 
 Explore exercises related to implementing loops in C. These exercises help you practice using for, while, and do-while loops to perform repetitive tasks efficiently and control iteration based on specific conditions.
 
-* **Please refer to the file below to begin the Exercise.**
-  * [See Exercise](./Loops/Guideline/GUIDELINE.md)
+* **Please refer to this** [Guideline.md](./Loops/Guideline/GUIDELINE.md) **file to begin the Exercise.**
 
-### Arrays
+---
+
+### IV. Arrays
 
 Explore exercises related to declaring and manipulating arrays. These exercises guide you through storing, accessing, and processing collections of data using one-dimensional and multi-dimensional arrays.
 
-* **Please refer to the file below to begin the Exercise.**
-  * [See Exercise](./Arrays/Guideline/GUIDELINE.md)
+* **Please refer to this** [Guideline.md](./Arrays/Guideline/GUIDELINE.md) **file to begin the Exercise.**
 
-### Structs
+---
+
+### V. Structs
 
 Explore exercises related to defining and using structs. These exercises help you understand how to group related data into custom data types, work with struct variables, and access their members effectively.
 
-* **Please refer to the file below to begin the Exercise.**
-  * [See Exercise](./Structs/Guideline/GUIDELINE.md)
+* **Please refer to this** [Guideline.md](./Structs/Guideline/GUIDELINE.md) **file to begin the Exercise.**
 
-### Function
+---
+
+### VI. Function
 
 Explore exercises related to creating and using functions. These exercises focus on defining reusable code blocks, passing arguments, returning values, and understanding the scope of variables.
 
-* **Please refer to the file below to begin the Exercise.**
-  * [See Exercise](./Function/Guideline/GUIDELINE.md)
+* **Please refer to this** [Guideline.md](./Function/Guideline/GUIDELINE.md) **file to begin the Exercise.**
 
 ---
 
